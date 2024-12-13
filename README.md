@@ -7,13 +7,13 @@
 
 - ⭐ Github Sophomore ⭐ 
 - 🛜 Web Developer
-- 🤵‍♂️ B2 - English
-- 🌎 I'm Dominican <kbd>
+- 🤵‍♂️ B2 - English Proficiency
+- 🌎 I'm Dominican
   
-## 🌱 Lerning about
+## 🌱 Currently Learning
  
 - JavaScript
-- FrontEnd
+- Frontend Development
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
