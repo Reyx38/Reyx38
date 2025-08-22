@@ -6,7 +6,7 @@
 ## About me
 
 - ⭐ Github Sophomore ⭐ 
-- 🛜 Web Developer
+- 🛜 Full Stack
 - 🤵‍♂️ B2 - English Proficiency
 - 🌎 I'm Dominican
   
